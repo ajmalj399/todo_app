@@ -1,0 +1,6 @@
+.text-box {
+  border-radius: 5px;
+  border: 1px solid rgba(43, 42, 42, 0.727);
+  box-shadow: 1px 1px 1px rgba(83, 82, 82, 0.484);
+  padding: 0 130px;
+}
